@@ -1,0 +1,6 @@
+Prompt_ID,Task,Weak_Prompt,Improved_Prompt
+P101,Explain photosynthesis,Explain photosynthesis.,Act as a biology teacher. Explain photosynthesis to a college student in under 120 words and include an example.
+P102,Write a formal email,Write an email.,You are an administrative assistant. Draft an email to a manager requesting a meeting in under 100 words. Include a subject line.
+P103,Python debugging,Fix this code.,Act as a Python tutor. Review the code in three bullet points and include a corrected example.
+P104,Summarize a report,Shorten this report.,You are an analyst. Summarize this project report in five bullet points.
+P105,Compare algorithms,Tell me about sorting.,Act as a computer science tutor. Compare merge sort and quicksort in a table.

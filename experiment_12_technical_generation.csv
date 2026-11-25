@@ -1,0 +1,6 @@
+Task_ID,Topic,Audience,Task_Description,Requirements
+G101,CSV Data Analysis,Beginner Python student,Create a Python function to calculate the average of numeric values in a CSV column.,"Validate the column, ignore missing values and round the average to two decimals."
+G102,Temperature Conversion,Beginner Python student,Generate a function to convert Celsius to Fahrenheit.,Accept numeric input and use F = (C × 9/5) + 32.
+G103,Password Validation,Intermediate Python student,Generate a password-strength checker.,"Check length, uppercase, lowercase, digit and special character."
+G104,List Statistics,Beginner Python student,"Generate a function to find minimum, maximum and range.",Reject an empty list and return the three statistics.
+G105,Text Analysis,Beginner Python student,Generate a function to count total and unique words.,Normalize case and remove punctuation before counting.
